@@ -1,0 +1,26 @@
+body{
+    background:
+
+        url(https://i.pinimg.com/originals/a7/2b/13/a72b13de7115ac38355a3aa03d34a453.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+h1,h2, li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #43736A;
+
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #D99F59;
+}
+
+img, iframe{
+        border-radius: 12px;
+        border: 2px solid #D99F59;
+}
+button{
+    width: 100px;
+    height: 50px;
+}
